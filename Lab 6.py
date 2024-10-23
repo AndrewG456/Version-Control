@@ -1,3 +1,4 @@
+#Andrew George
 def encode():
     password = input("Please enter your password to encode: ")
     print("Your password has been encoded and stored!\n")
